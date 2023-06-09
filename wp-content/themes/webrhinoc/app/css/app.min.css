@@ -21,6 +21,7 @@ input[name="services-111"] {
 input[aria-invalid="true"] {
     border-color: red!important;
 }
+
 .wpcf7-not-valid-tip {
     display: none;
 }
